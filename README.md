@@ -9,6 +9,7 @@ A simple and intuitive to-do app built with **React.js**, designed to help users
 
 ## Tech Stack
 Frontend: React.js, HTML, CSS
+<br/>
 Styling: TailwindCSS
 
 ## Installation
